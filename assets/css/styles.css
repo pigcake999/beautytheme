@@ -1,0 +1,99 @@
+#products{
+  margin-top:0;
+}
+
+nav.navbar.navbar-default.custom-header{
+  margin-bottom:0;
+}
+
+#products{
+  margin-top:100px;
+}
+
+div#carousel-1{
+  margin-top:80px;
+}
+
+a.footer-logo{
+  color:#eeeeee;
+}
+
+div#features.container{
+  margin-top:20px;
+}
+
+i.fi{
+  color:#b715e4;
+  font-size:45px;
+  text-align:center;
+  float:none;
+}
+
+div#features div.col-md-4{
+  text-align:center;
+}
+
+div#features p{
+  color:#bebbbb;
+}
+
+div#features.container{
+  margin-top:100px;
+}
+
+@media (max-width:991px) {
+  div#features div.col-md-4{
+    margin-top:20px;
+  }
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img{
+  display:block;
+  max-width:100%;
+  height:100%;
+  max-height:100%;
+}
+
+div#carousel-1.carousel.slide{
+  height:85vh;
+}
+
+img{
+}
+
+div#carousel-1.carousel.slide img{
+  height:100%;
+  max-height:85vh;
+}
+
+div#features-div{
+  margin:0;
+  background:#c5c3dc;
+  padding:0;
+  padding-bottom:0;
+  padding-top:10px;
+}
+
+div#about-us.jumbotron{
+  text-align:center;
+}
+
+div#about-us.jumbotron{
+  background:url(https://images.pexels.com/photos/6568/apple-desk-laptop-macbook.jpg) no-repeat;
+  background-size:cover;
+  background-position:center center;
+}
+
+div#about-us.jumbotron h1{
+  color: #111;
+  font-family: Raleway, helvetica, sans-serif;
+}
+
+div#about-us.jumbotron p {
+  color: #000;
+  font-family: arial, helvetica, sans-serif;
+}
+
+div#about-us.jumbotron p button {
+  color: #000;
+}
